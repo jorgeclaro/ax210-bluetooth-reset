@@ -1,0 +1,2 @@
+# Output of `install.ps1 -GenerateOnly`: contains this machine's IDs
+generated/
